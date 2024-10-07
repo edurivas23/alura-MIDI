@@ -18,3 +18,7 @@ Este proyecto es una página web simple que permite a los usuarios reproducir so
 
 1. Clona este repositorio: `git clone https://github.com/edurivas23/alura-MIDI.git`
 3. Abre el archivo `index.html` en tu navegador web.
+
+   
+## Agradecimientos
+Este proyecto fue desarrollado como parte del curso "JavaScript para web: crea páginas dinámicas" de Alura. Agradezco a los instructores y a la comunidad de Alura por su apoyo y aprendizaje.
