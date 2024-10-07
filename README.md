@@ -1,27 +1,20 @@
-## Proyecto del Curso de JavaScript para Web: Crea páginas dinámicas
+# Instrumentos Musicales con JavaScript
 
-El proyecto del curso es el Alura Midi que es un instrumento musical de interfaz digital al cual le agregaremos las funcionalidades en el transcurso del curso. 
+Este proyecto es una página web simple que permite a los usuarios reproducir sonidos de diferentes instrumentos musicales utilizando JavaScript.
 
- 
-## Comenzando 🚀
+## Funcionalidades
 
-Este repositorio contiene varias Branch. 
+* **Reproducción de sonidos:** Los usuarios pueden hacer clic en botones para reproducir sonidos de instrumentos como piano, guitarra, batería, etc.
+* **Interfaz de usuario:** La página web tiene una interfaz sencilla con botones para cada instrumento.
+* **Accesibilidad:** La página web está diseñada para ser accesible a través del teclado, permitiendo a los usuarios navegar y reproducir sonidos utilizando las teclas "Enter" o la barra de espacio.
 
-Cada Branch esta identificada con el nombre aula y el numero del aula correspondiente. 
+## Tecnologías
 
-Ejemplo:  **aula-1**
+* **HTML:** Para la estructura de la página web.
+* **CSS:** Para el estilo y diseño de la página web.
+* **JavaScript:** Para la lógica de reproducción de sonidos y la interacción con el usuario.
 
-*En la rama principal (main) se encuentra el código base del proyecto para que pueda descargarlo e ir construyendo el codigo con el pasar de las aulas.*
+## Instalación
 
-### Pre-requisitos y uso 📋
-
-Descarga el código que necesites seleccionando la Branch dentro de este repositorio y ábrelo con tu editor de código favorito. 
-
-
----
- Con :blue_heart: 
-- [Alura Latam](https://www.aluracursos.com/) 
-- [Instructora: Jeanmarie Quijada](https://github.com/JeanmarieAluraLatam) 
-
-
-
+1. Clona este repositorio: `git clone https://github.com/edurivas23/alura-MIDI.git`
+3. Abre el archivo `index.html` en tu navegador web.
